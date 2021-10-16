@@ -1,16 +1,31 @@
-### Hi there 👋
+# Welcome to my profile!
+## My name is Oliver, but you can also feel free to call me Olive!
+### Please don't refer to me as Oli/Ollie unless we are close. Familiarity from strangers makes me feel weird and conflicted.
 
-<!--
-**Oliver-Weiss/Oliver-Weiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Right now, I'm honestly mostly using this introduction as an excuse to play around with syntax, haha-**
+*So yes, prepare for an obnoxious amount of alternating text.*
 
-Here are some ideas to get you started:
+> Late night showers.
+>
+> Late night conversations.
+> 
+> Late night adventures.
+> 
+> Late night snacks.
+> 
+> Late night memories.
+> 
+> Everything's better at night.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a heavy [activist](https://changeforthebetter.carrd.co/); yes, this *includes* supporting and respecting adult content creators as intelligent individuals running their own business.
+
+![An aesthetic image](https://i.pinimg.com/564x/a5/2d/9d/a52d9d0fd76c1884dc188c2879d4f42c.jpg)
+
+* Working on starting *Twisted Romance* while also finishing up *Tails & Scales*.
+* Practicing 3D animation.
+* Revamping my literature commission prices.
+* Learning full-stack programming.
+
+- [ ] 💙 Graduate from Coding Dojo 💙
+- [ ] 💕 Secure an employed position 💕
+- [ ] ✨ Move out ✨
