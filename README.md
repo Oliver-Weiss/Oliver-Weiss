@@ -21,7 +21,7 @@ I'm a heavy [activist](https://changeforthebetter.carrd.co/); yes, this *include
 
 ![An aesthetic image](https://i.pinimg.com/564x/a5/2d/9d/a52d9d0fd76c1884dc188c2879d4f42c.jpg)
 
-* Working on starting *Twisted Romance* while also finishing up *Tails & Scales*.
+* Finish scripting *Twisted Secrets* while also finishing up *Tails & Scales*.
 * Practicing 3D animation.
 * Revamping my literature commission prices.
 * Learning full-stack programming.
