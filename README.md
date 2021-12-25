@@ -26,6 +26,6 @@ I'm a heavy [activist](https://changeforthebetter.carrd.co/); yes, this *include
 * Revamping my literature commission prices.
 * Learning full-stack programming.
 
-- [ ] 💙 Graduate from Coding Dojo 💙
+- [x] 💙 Graduate from Coding Dojo 💙
 - [ ] 💕 Secure an employed position 💕
 - [ ] ✨ Move out ✨
