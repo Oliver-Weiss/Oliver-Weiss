@@ -21,8 +21,7 @@ I'm a heavy [activist](https://changeforthebetter.carrd.co/); yes, this *include
 
 ![An aesthetic image](https://i.pinimg.com/564x/a5/2d/9d/a52d9d0fd76c1884dc188c2879d4f42c.jpg)
 
-* Scripting *Twisted Secrets*.
-* Practicing 3D animation.
+* Practicing 3D art.
 * Revamping my literature commission prices.
 
 - [x] 💙 Graduate from Coding Dojo 💙
