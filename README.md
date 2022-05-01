@@ -20,7 +20,3 @@
 I'm a heavy [activist](https://changeforthebetter.carrd.co/); yes, this *includes* supporting and respecting adult content creators as intelligent individuals running their own business.
 
 ![An aesthetic image](https://i.pinimg.com/564x/a5/2d/9d/a52d9d0fd76c1884dc188c2879d4f42c.jpg)
-
-- [x] 💙 Graduate from Coding Dojo 💙
-- [x] 💕 Secure an employed position 💕
-- [ ] ✨ Move out ✨
